@@ -252,7 +252,8 @@ img {
 .footer .social a {
   margin: 0 10px;
 }
-/* 
+
+/* Hover effect */
 .fa-github:hover {
   color: #000000;
 }
@@ -267,7 +268,7 @@ img {
 
 .fa-twitter:hover {
   color: #1c9cea;
-} */
+}
 
 /* Animations */
 @keyframes slideInFromLeft {
